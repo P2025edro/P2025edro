@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.jpg" width="100%" alt="Pedro Silva — Founder and Software Developer">
+</p>
+
 <div align="center">
 
 # Pedro Silva
