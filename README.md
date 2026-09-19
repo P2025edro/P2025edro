@@ -51,6 +51,15 @@ Project intelligence and execution platform.
 
 ---
 
+## GITHUB.STATS
+
+<p align="center">
+  <img height="195" src="https://github-readme-stats-virid-three-48.vercel.app/api?username=P2025edro&show_icons=true&hide_rank=true&theme=transparent&hide_border=true" alt="Pedro Silva GitHub stats">
+  <img height="165" src="https://github-readme-stats-virid-three-48.vercel.app/api/top-langs/?username=P2025edro&layout=compact&theme=transparent&hide_border=true" alt="Pedro Silva top languages">
+</p>
+
+---
+
 ## CONTRIBUTION.ACTIVITY
 
 <picture>
