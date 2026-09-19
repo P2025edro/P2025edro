@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-animated.svg?v=11" width="100%" alt="Pedro Silva — Founder and Software Developer">
+  <img src="./banner.jpg" width="100%" alt="Pedro Silva — Founder and Software Developer">
 </p>
 
 <div align="center">
