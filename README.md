@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**P2025edro/P2025edro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Pedro Silva
 
-Here are some ideas to get you started:
+### Founder · Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Dublin, Ireland · BSc Computing**
+
+Building practical software and AI solutions for real business problems.
+
+</div>
+
+---
+
+### SYSTEM.INFO
+
+```text
+Subject ............ Pedro Silva
+Role ............... Founder · Software Developer
+Location ........... Dublin, Ireland
+Education .......... BSc Computing
+Status ............. Building · Learning · Shipping
+
+Core.Lang .......... JavaScript · TypeScript
+Core.Frontend ...... React · Vite
+Core.Backend ....... Node.js
+Core.Database ...... SQLite
+Core.Infra ......... GitHub · Vercel
+```
+
+### PROJECTS
+
+- **Silva Solutions Ltd** — Software and AI solutions for business operations, security and efficiency.
+- **Silvix** — AI-powered CCTV, fleet and drone operations platform.
+- **STRAVIQ** — Project intelligence and execution platform.
+
+---
+
+<div align="center">
+
+`> const future = better();`
+
+**DISCIPLINE TODAY. BIGGER TOMORROW.**
+
+</div>
