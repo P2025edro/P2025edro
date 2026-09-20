@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="./portrait-dither.png?v=3" alt="Pedro Silva — dot-matrix portrait" width="360">
-</p>
-
-<p align="center">
-  <strong>VISUAL.MAP // Pedro Silva</strong><br>
-  Founder · Software Developer · Dublin, Ireland
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg?v=4">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg?v=4">
+  <img src="./dark.svg?v=4" alt="Pedro Silva — animated VISUAL.MAP profile" width="100%">
+</picture>
 </p>
 
 <div align="center">
