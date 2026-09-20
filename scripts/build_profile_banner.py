@@ -53,3 +53,5 @@ def make(dark=True):
 
 open("dark.svg","w",encoding="utf-8").write(make(True))
 open("light.svg","w",encoding="utf-8").write(make(False))
+
+# trigger banner build
