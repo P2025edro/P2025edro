@@ -1,0 +1,27 @@
+name: Build animated profile banner
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/build_profile_banner.py"
+      - "portrait-dither.png"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow numpy
+      - run: python scripts/build_profile_banner.py
+      - name: Commit generated banners
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dark.svg light.svg
+          git diff --cached --quiet || git commit -m "Generate animated photo dot-matrix banner"
+          git push
