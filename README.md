@@ -1,9 +1,5 @@
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg?v=6">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg?v=6">
-  <img src="./dark.svg?v=6" alt="Pedro Silva — animated VISUAL.MAP profile" width="100%">
-</picture>
+  <img src="https://raw.githubusercontent.com/P2025edro/P2025edro/main/dark.svg?v=7" alt="Pedro Silva — animated terminal profile" width="100%">
 </p>
 
 <div align="center">
