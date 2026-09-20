@@ -14,9 +14,13 @@
 <text x="500" y="211" fill="#475569" font-size="12">ORIGIN</text><text x="680" y="211" fill="#111827" font-size="15">Dublin, Ireland</text>
 <text x="500" y="248" fill="#475569" font-size="12">EDUCATION</text><text x="680" y="248" fill="#111827" font-size="15">BSc Computing</text>
 <text x="500" y="285" fill="#475569" font-size="12">STATUS</text><text x="680" y="285" fill="#10B981" font-size="14">BUILDING · LEARNING · SHIPPING</text>
-<text x="500" y="339" fill="#0891B2" font-size="17">CORE.STACK</text>
+<text x="500" y="339" fill="#0891B2" font-size="17">TECH.STACK // </text><text x="930" y="339" fill="#475569" font-size="11">TOOLS FOR REAL-WORLD SOLUTIONS</text>
 <text x="500" y="380" fill="#475569" font-size="12">CORE.LANG</text><text x="680" y="380" fill="#111827" font-size="14">JavaScript · TypeScript</text>
 <text x="500" y="417" fill="#475569" font-size="12">CORE.FRONTEND</text><text x="680" y="417" fill="#111827" font-size="14">React · Vite</text>
 <text x="500" y="454" fill="#475569" font-size="12">CORE.BACKEND</text><text x="680" y="454" fill="#111827" font-size="14">Node.js</text>
 <text x="500" y="491" fill="#475569" font-size="12">CORE.DATABASE</text><text x="680" y="491" fill="#111827" font-size="14">SQLite</text>
-<text x="500" y="528" fill="#475569" font-size="12">CORE.INFRA</text><text x="680" y="528" fill="#111827" font-size="14">GitHub · Vercel</text></g></svg>
+<text x="500" y="528" fill="#475569" font-size="12">CORE.INFRA</text><text x="680" y="528" fill="#111827" font-size="14">GitHub · Vercel</text>
+<text x="930" y="380" fill="#475569" font-size="12">○ PLAN</text><text x="930" y="410" fill="#475569" font-size="12">○ DEVELOP</text><text x="930" y="440" fill="#475569" font-size="12">○ TEST</text><text x="930" y="470" fill="#475569" font-size="12">○ DEPLOY</text><text x="930" y="500" fill="#10B981" font-size="12">● ✓SOLVE</text>
+<text x="500" y="70" fill="#475569" font-size="11">IDEAS → SOLUTIONS → REAL IMPACT</text></g>
+<rect x="480" y="545" width="205" height="42" rx="6" fill="none" stroke="#0891B2" opacity=".55"/><rect x="695" y="545" width="205" height="42" rx="6" fill="none" stroke="#0891B2" opacity=".55"/><rect x="910" y="545" width="235" height="42" rx="6" fill="none" stroke="#0891B2" opacity=".55"/>
+<g font-family="monospace"><text x="493" y="563" fill="#0891B2" font-size="12">Silva Solutions Ltd</text><text x="493" y="579" fill="#475569" font-size="9">Technology for real business problems.</text><text x="708" y="563" fill="#0891B2" font-size="12">Silvix</text><text x="708" y="579" fill="#475569" font-size="9">AI CCTV · Fleet · Drone</text><text x="923" y="563" fill="#0891B2" font-size="12">STRAVIQ</text><text x="923" y="579" fill="#475569" font-size="9">Project Intelligence &amp; Execution</text></g></svg>
