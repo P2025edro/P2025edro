@@ -1,31 +1,27 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/P2025edro/P2025edro/main/dark.svg?v=7" alt="Pedro Silva — animated terminal profile" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/P2025edro/P2025edro/main/dark.svg?v=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/P2025edro/P2025edro/main/light.svg?v=8">
+    <img src="https://raw.githubusercontent.com/P2025edro/P2025edro/main/dark.svg?v=8" alt="Pedro Silva — Founder & Software Developer, Dublin" width="100%">
+  </picture>
 </p>
 
 <div align="center">
 
 # Pedro Silva
-### Founder · Software Developer
+### Founder of Silva Solutions Ltd · Software Developer
 
-**Dublin, Ireland · BSc Computing**
+**Dublin, Ireland · BSc in Computing**
 
 Building practical software and AI solutions for real business problems.
+
+<a href="https://silvasolutions.ie"><img src="https://img.shields.io/badge/silvasolutions.ie-111827?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="silvasolutions.ie"></a>
 
 </div>
 
 ---
 
-## SYSTEM.INFO
-
-| | |
-|---|---|
-| **Subject** | Pedro Silva |
-| **Role** | Founder · Software Developer |
-| **Location** | Dublin, Ireland |
-| **Education** | BSc Computing |
-| **Status** | Building · Learning · Shipping |
-
-### CORE.STACK
+## TECH.STACK
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript" alt="JavaScript">
@@ -40,25 +36,24 @@ Building practical software and AI solutions for real business problems.
 
 ## PROJECTS
 
-**Silva Solutions Ltd**  
-Software and AI solutions for business operations, security and efficiency.
+| Project | What it does |
+|---|---|
+| **[Silva Solutions Ltd](https://silvasolutions.ie)** | IT support, software and AI solutions for Irish businesses. |
+| **Silvix** | AI-powered CCTV monitoring, incidents and fleet tracking. |
+| **STRAVIQ** | Project intelligence and execution platform. |
+| **Silva Signage Network** | Indoor digital advertising network on Smart TVs in Dublin businesses. |
+| **Silva Studio** | AI video production studio. |
 
-**Silvix**  
-AI-powered CCTV, fleet and drone operations platform.
-
-**STRAVIQ**  
-Project intelligence and execution platform.
+**Client websites:** barbershops, restaurants, food trucks, grocery stores and community spaces across Dublin — designed, built and deployed on Vercel.
 
 ---
 
 ## GITHUB.STATS
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats-virid-three-48.vercel.app/api?username=P2025edro&show_icons=true&hide_rank=true&theme=transparent&hide_border=true" alt="Pedro Silva GitHub stats">
+  <img height="195" src="https://github-readme-stats-virid-three-48.vercel.app/api?username=P2025edro&show_icons=true&hide_rank=true&count_private=true&theme=transparent&hide_border=true" alt="Pedro Silva GitHub stats">
   <img height="165" src="https://github-readme-stats-virid-three-48.vercel.app/api/top-langs/?username=P2025edro&layout=compact&theme=transparent&hide_border=true" alt="Pedro Silva top languages">
 </p>
-
----
 
 ## CONTRIBUTION.ACTIVITY
 
