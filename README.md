@@ -1,9 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/P2025edro/P2025edro/main/dark.svg?v=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/P2025edro/P2025edro/main/light.svg?v=8">
-    <img src="https://raw.githubusercontent.com/P2025edro/P2025edro/main/dark.svg?v=8" alt="Pedro Silva — Founder & Software Developer, Dublin" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/P2025edro/P2025edro/main/dark.svg?v=9" alt="Pedro Silva — Founder & Software Developer, Dublin" width="100%">
 </p>
 
 <div align="center">
@@ -57,11 +53,7 @@ Building practical software and AI solutions for real business problems.
 
 ## CONTRIBUTION.ACTIVITY
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/P2025edro/P2025edro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/P2025edro/P2025edro/output/github-contribution-grid-snake.svg">
-  <img width="100%" alt="Pedro Silva contribution activity" src="https://raw.githubusercontent.com/P2025edro/P2025edro/output/github-contribution-grid-snake.svg">
-</picture>
+<img width="100%" alt="Pedro Silva contribution activity" src="https://raw.githubusercontent.com/P2025edro/P2025edro/output/github-contribution-grid-snake-dark.svg">
 
 ---
 
