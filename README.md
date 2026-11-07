@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/P2025edro/P2025edro/main/dark.svg?v=10" alt="Pedro Silva — Founder & Software Developer, Dublin" width="100%">
+  <img src="./dark.svg" alt="Pedro Silva — Founder & Software Developer, Dublin" width="100%">
 </p>
 
 <div align="center">
