@@ -12,6 +12,7 @@
 Building practical software and AI solutions for real business problems.
 
 <a href="https://silvasolutions.ie"><img src="https://img.shields.io/badge/silvasolutions.ie-111827?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="silvasolutions.ie"></a>
+<a href="https://github.com/P2025edro/portfolio"><img src="https://img.shields.io/badge/See_my_work-Portfolio-111827?style=for-the-badge&logo=github&labelColor=7C3AED" alt="See my work"></a>
 
 </div>
 
@@ -40,7 +41,7 @@ Building practical software and AI solutions for real business problems.
 | **Silva Signage Network** | Indoor digital advertising network on Smart TVs in Dublin businesses. |
 | **Silva Studio** | AI video production studio. |
 
-**Client websites:** barbershops, restaurants, food trucks, grocery stores and community spaces across Dublin — designed, built and deployed on Vercel.
+**Client websites:** barbershops, restaurants, food trucks, grocery stores and community spaces across Dublin — **[see them in my portfolio →](https://github.com/P2025edro/portfolio)**
 
 ---
 
